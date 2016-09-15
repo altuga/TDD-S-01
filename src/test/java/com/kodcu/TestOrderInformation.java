@@ -11,7 +11,7 @@ public class TestOrderInformation {
 
     @Test
 
-    // TODO : Projenin calistiriniz.
+    // TODO : Projeyi hata vermeden çalıştırınız.
     public void testCreateOrder() {
         Person p = new Person();
         p.setName("Ahmet");
